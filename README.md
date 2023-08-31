@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3matty&label=Profile%20views&color=0e75b6&style=flat" alt="th3matty" /> </p>
 
-[- 🔭 I’m currently working on **Brew-Me**
-
-- 🌱 I’m currently learning **React, GraphQl, Tailwind**
-
 - 📫 How to reach me **ma_malek@protonmail.com**](url)
 
 <h3 align="left">Connect with me:</h3>
