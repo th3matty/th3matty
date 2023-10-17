@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthäus</h1>
-<h3 align="center">A passionate frontend developer from Hamburg</h3>
+<h3 align="center">A passionate fullstack developer from Hamburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3matty&label=Profile%20views&color=0e75b6&style=flat" alt="th3matty" /> </p>
 
